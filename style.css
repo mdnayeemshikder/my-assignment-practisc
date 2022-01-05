@@ -35,8 +35,17 @@ h1{
     border-radius: 5px;
     color: white;
 }
-section{
+#top-pic {
     background-image: url(images/top-benner-removebg-preview.png);
     background-repeat: no-repeat;
  
+}
+#pheragraph{
+    padding-right: 20%;
+}
+#midel-pic{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-y: 20%;
 }
